@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "python-template"
-version = "1.0.0"
-description = ""
+name = "logix"
+version = "0.1.0"
+description = "Symbolic Logic Expressions and Tables"
 authors = ["ionite34 <dev@ionite.io>"]
 
 [tool.poetry.dependencies]
-python = ">=3.7.2,<3.11"
+python = ">=3.8,<3.11"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"
